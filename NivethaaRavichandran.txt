@@ -1,1 +1,2 @@
 This is the version of the main branch 
+This is feature 2 implemented in the branch feature2.
